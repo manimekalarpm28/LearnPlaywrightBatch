@@ -25,6 +25,19 @@ Deep dive into JavaScript identifiers, naming conventions, and language fundamen
 ### Chapter 3: Identifier & Literals (`chapter_03_Identifier_Literals/`)
 Advanced concepts on identifiers and literals.
 
+### Chapter 4: JavaScript Scope & Hoisting (`chapter_04_Javascript_Concepts/`)
+Understanding `var`, `let`, `const`, hoisting, and function scope.
+
+- **09_var_let_const.js** - Differences between `var`, `let`, and `const`
+- **10_functions.js** - JavaScript functions and usage examples
+- **11_var_explained.js** - Explanation of `var` behavior in JavaScript
+- **12_let_people_love.js** - Examples using `let` and block scope
+- **13_const_expalined.js** - `const` behavior and constant declaration examples
+- **14_Var_Func_scope.js** - Function scope behavior using `var`
+- **15_let_scope.js** - Block scope behavior using `let`
+- **16_hoisting.js** - Hoisting examples for variables and functions
+- **17_func_hoisting.js** - Function hoisting examples
+
 ## 🎯 Learning Goals
 
 1. ✅ Understand JavaScript fundamentals
@@ -46,6 +59,8 @@ Run any JavaScript file using Node.js:
 ```bash
 node chapter_01_Basics/01_Basics.js
 node chapter_02_Javascript_Concepts/06_Identifier_Rules.js
+node chapter_04_Javascript_Concepts/14_Var_Func_scope.js
+node chapter_04_Javascript_Concepts/17_func_hoisting.js
 ```
 
 ## 📖 Key Concepts Covered
