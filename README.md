@@ -38,6 +38,18 @@ Understanding `var`, `let`, `const`, hoisting, and function scope.
 - **16_hoisting.js** - Hoisting examples for variables and functions
 - **17_func_hoisting.js** - Function hoisting examples
 
+### Chapter 5: Literals (`chapter_05_Literals/`)
+Introduction to literals, strings, numbers, and related concepts.
+
+- **22_literals.js** - Introduction to literals
+- **23_null_undefined.js** - Difference between `null` and `undefined` with examples
+- **24_null.js** - Notes and examples about `null`
+- **25_Literal_all.js** - Overview of literal types
+- **26_Literal_Number_all.js** - Number literals (decimal, hex, binary, octal, BigInt)
+- **27_String.js** - String literals and operations
+- **28_template_literal.js** - Template literals and interpolation
+- **29_backtick_single_double.js** - Quick difference: backtick vs single/double quotes
+
 ## 🎯 Learning Goals
 
 1. ✅ Understand JavaScript fundamentals
