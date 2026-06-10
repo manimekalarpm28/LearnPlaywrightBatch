@@ -53,17 +53,29 @@ Introduction to literals, strings, numbers, and related concepts.
 ### Chapter 6: Operators (`chapter_06_Operator/`)
 Comprehensive guide to JavaScript operators and their usage.
 
+#### Arithmetic & Basic Operators
 - **30_Operator.js** - Introduction to operators overview
 - **31_Arithmetic_OP.js** - Arithmetic operators: `+`, `-`, `*`, `/`, `%`, `**`
 - **32_Modulus_OP.js** - Modulus operator (`%`) in detail
 - **33_Expo_OP.js** - Exponentiation operator (`**`)
 - **34_IQ.js** - Integer quotient and division operations
+
+#### Comparison Operators
 - **35_Comparison_Op.js** - Comparison operators: `<`, `>`, `<=`, `>=`
 - **36_Comparision_Strict_loose.js** - `==` (loose) vs `===` (strict) equality comparison
 - **37_IO_Loose_Strict.js** - `!=` (loose) vs `!==` (strict) inequality comparison
 - **38_Confusion_Comparision.js** - Common confusion cases between `==` and `===` with real-world examples
+
+#### Logical & Advanced Operators
 - **39_Logical_Operator.js** - Logical operators: `&&`, `||`, `!`
 - **40_String_Con_Op.js** - String concatenation operators
+- **41_Ternary_Op.js** - Ternary operator (`? :`): conditional expressions
+- **42_Type_Op.js** - `typeof` operator: type checking and identification
+- **43_Incre_Decre_Op.js** - Increment (`++`) and decrement (`--`) operators basics
+- **44_Null_Op.js** - Nullish coalescing operator (`??`) and optional chaining
+- **45_PosT_Increment.js** - Post-increment and pre-increment detailed comparison
+- **46_IQ_increment.js** - Increment operators with division and quotient operations
+- **47_Advance_ID.js** - Advanced increment/decrement identifier patterns
 
 ## 🎯 Learning Goals
 
