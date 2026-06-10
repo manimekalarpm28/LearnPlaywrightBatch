@@ -50,6 +50,21 @@ Introduction to literals, strings, numbers, and related concepts.
 - **28_template_literal.js** - Template literals and interpolation
 - **29_backtick_single_double.js** - Quick difference: backtick vs single/double quotes
 
+### Chapter 6: Operators (`chapter_06_Operator/`)
+Comprehensive guide to JavaScript operators and their usage.
+
+- **30_Operator.js** - Introduction to operators overview
+- **31_Arithmetic_OP.js** - Arithmetic operators: `+`, `-`, `*`, `/`, `%`, `**`
+- **32_Modulus_OP.js** - Modulus operator (`%`) in detail
+- **33_Expo_OP.js** - Exponentiation operator (`**`)
+- **34_IQ.js** - Integer quotient and division operations
+- **35_Comparison_Op.js** - Comparison operators: `<`, `>`, `<=`, `>=`
+- **36_Comparision_Strict_loose.js** - `==` (loose) vs `===` (strict) equality comparison
+- **37_IO_Loose_Strict.js** - `!=` (loose) vs `!==` (strict) inequality comparison
+- **38_Confusion_Comparision.js** - Common confusion cases between `==` and `===` with real-world examples
+- **39_Logical_Operator.js** - Logical operators: `&&`, `||`, `!`
+- **40_String_Con_Op.js** - String concatenation operators
+
 ## 🎯 Learning Goals
 
 1. ✅ Understand JavaScript fundamentals
