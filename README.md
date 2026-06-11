@@ -108,6 +108,28 @@ Handling user input and interactive programs.
 
 - **68_User_Input.js** - Getting user input and processing responses
 
+### Chapter 10: Loops (`Chapter_10_Loops.js/`)
+Loop structures and iteration patterns in JavaScript.
+
+#### For Loops
+- **71_For_Loop.js** - Basic for loop syntax and usage
+- **72_For_loop.js** - For loop variations and examples
+- **73_For_Loop2.js** - Advanced for loop patterns
+- **74_IQ.js** - Practice exercises for for loops
+
+#### Loop Iteration Methods
+- **75_Of_IN_Each.js** - `for...of`, `for...in`, and `forEach()` methods
+
+#### While and Do-While Loops
+- **76_while.js** - While loop syntax and usage
+- **77_Do_While.js** - Do-while loop structure
+- **78_Do_While.js** - Additional do-while examples
+
+#### Loop Exercises
+- **79_IQ.js** - Intermediate loop practice exercises
+- **80_IQ.js** - Advanced loop exercises
+- **81_IQ.js** - Complex loop logic challenges
+
 ## 🎯 Learning Goals
 
 1. ✅ Understand JavaScript fundamentals
