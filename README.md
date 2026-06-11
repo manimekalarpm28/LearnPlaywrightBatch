@@ -77,6 +77,37 @@ Comprehensive guide to JavaScript operators and their usage.
 - **46_IQ_increment.js** - Increment operators with division and quotient operations
 - **47_Advance_ID.js** - Advanced increment/decrement identifier patterns
 
+### Chapter 7: If-Else Statements (`chapter_07_if_else/`)
+Conditional logic and decision-making in JavaScript.
+
+- **48_if_else.js** - Basic if-else statement syntax and usage
+- **49_if_Elseif_else.js** - Multiple conditions with if-else if-else chains
+- **50_Real_If_Else.js** - Real-world if-else examples
+- **51_API_If_Else.js** - Using if-else for API response handling
+- **52_IQ_IF_Else.js** - Practice exercises for if-else logic
+- **53_If_else_Real.js** - Practical applications of conditional statements
+- **54_IQ.js** - Additional if-else exercises
+- **56_IQ_Even_ODD.js** - Even/Odd number detection using if-else
+- **57_IQ_Grade_calc.js** - Grade calculation with conditional logic
+- **58_Leap_year.js** - Leap year validation using if-else conditions
+
+### Chapter 8: Switch Statements (`Chapter_08_Switch/`)
+Switch cases for multi-way branching and decision-making.
+
+- **59_switch.js** - Basic switch statement syntax and usage
+- **60_No_Break_switch.js** - Fall-through behavior without break statements
+- **62_Real_time_Example.js** - Real-world switch statement examples
+- **63_Switch_group.js** - Grouping cases in switch statements
+- **64_IQ.js** - Practice exercises for switch statements
+- **65_IQ2.js** - Grade calculation with switch(true) pattern
+- **66_IQ3.js** - Advanced switch examples
+- **67_IQ4.js** - Complex switch logic exercises
+
+### Chapter 9: User Input (`Chapter_09_UserInput/`)
+Handling user input and interactive programs.
+
+- **68_User_Input.js** - Getting user input and processing responses
+
 ## 🎯 Learning Goals
 
 1. ✅ Understand JavaScript fundamentals
