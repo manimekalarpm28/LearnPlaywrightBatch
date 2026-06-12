@@ -130,13 +130,32 @@ Loop structures and iteration patterns in JavaScript.
 - **80_IQ.js** - Advanced loop exercises
 - **81_IQ.js** - Complex loop logic challenges
 
+### Chapter 11: Arrays (`Chapter_11_Arrays/`)
+Working with arrays, array methods, and array manipulation techniques.
+
+- **83_Arrays.js** - Array creation and initialization
+- **84_Arrays.js** - Additional array concepts and examples
+- **85_Access_Array.js** - Accessing array elements and indexing
+- **86_Arrays_Adding_Remove.js** - Adding and removing elements from arrays
+- **87_Adding_Remove2.js** - Advanced methods for array manipulation
+- **88_Real_Example.js** - Real-world array usage examples
+- **89_Searching.js** - Array searching and finding elements
+- **90_Iterate.js** - Iterating through arrays with different methods
+- **91_transform_Array.js** - Array transformation methods
+- **92_Arrays.js** - Additional array operations and utilities
+- **93_Array_Slicing.js** - Array slicing and substring operations
+- **94_Concat_array.js** - Concatenating and merging arrays
+- **95_Array_Checking.js** - Array validation and checking methods
+
 ## 🎯 Learning Goals
 
 1. ✅ Understand JavaScript fundamentals
 2. ✅ Learn naming conventions and identifier rules
 3. ✅ Master JavaScript comments and documentation
 4. ✅ Become proficient with VS Code shortcuts for faster development
-5. 📋 Prepare for Playwright automation testing concepts
+5. ✅ Master control flow (if-else, switch, loops)
+6. ✅ Work with arrays and array methods
+7. 📋 Prepare for Playwright automation testing concepts
 
 ## 🚀 Quick Start
 
@@ -213,7 +232,7 @@ This is a personal learning repository. Feel free to fork and customize for your
 
 ## 📅 Last Updated
 
-May 2026
+June 2026
 
 ---
 
