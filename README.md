@@ -147,6 +147,40 @@ Working with arrays, array methods, and array manipulation techniques.
 - **94_Concat_array.js** - Concatenating and merging arrays
 - **95_Array_Checking.js** - Array validation and checking methods
 
+### Chapter 12: Functions (`Chapter_12_Functions/`)
+Comprehensive guide to functions, closures, and higher-order functions in JavaScript.
+
+#### Function Types & Declarations
+- **96_functions.js** - Function fundamentals and overview
+- **97_Type1_fn_Basic_Functions.js** - Type 1: Basic functions without parameters
+- **98_type2_fn_with_param_No_return.js** - Type 2: Functions with parameters, no return value
+- **99_Type3__Fn_without_param_No_Return.js** - Type 3: Functions without parameters, with return value
+- **100_type4_Fn_With_param_With_Return.js** - Type 4: Functions with parameters and return values
+
+#### Advanced Function Concepts
+- **101_Template_literal.js** - Template literals in function output and string interpolation
+- **102_Fn_Expression.js** - Function expressions and their usage
+- **103_Arrow_Fn.js** - Arrow functions syntax and basics
+- **104_Arrow_Fn_Real.js** - Real-world arrow function examples
+- **105_IIFE.js** - Immediately Invoked Function Expressions (IIFE)
+- **106_Deafult_param_Fn.js** - Default parameters in functions
+- **107_IQ.js** - Practice exercises for function concepts
+
+#### Parameters & Spread Operators
+- **108_Rest_param_Fn.js** - Rest parameters (`...args`) for variable arguments
+- **109_IQ.js** - Practice exercises for rest parameters
+- **110_Spread_IO.js** - Spread operator for arrays and function arguments
+
+#### Scope & Closures
+- **111_Scope_fn.js** - Function scope and variable accessibility
+- **113_Closure.js** - Introduction to closures and lexical scoping
+- **114_Closure.js** - Practical closure examples and use cases
+- **115_API_Real_Closure.js** - Real-world API examples with closures
+
+#### Advanced Topics
+- **116_Higher_Order_function.js** - Higher-order functions and function composition
+- **117_Pure_fn.js** - Pure functions and functional programming principles
+
 ## 🎯 Learning Goals
 
 1. ✅ Understand JavaScript fundamentals
@@ -155,7 +189,8 @@ Working with arrays, array methods, and array manipulation techniques.
 4. ✅ Become proficient with VS Code shortcuts for faster development
 5. ✅ Master control flow (if-else, switch, loops)
 6. ✅ Work with arrays and array methods
-7. 📋 Prepare for Playwright automation testing concepts
+7. ✅ Master functions, closures, and higher-order functions
+8. 📋 Prepare for Playwright automation testing concepts
 
 ## 🚀 Quick Start
 
@@ -232,7 +267,7 @@ This is a personal learning repository. Feel free to fork and customize for your
 
 ## 📅 Last Updated
 
-June 2026
+June 13, 2026 - Added Chapter 12: Functions, Closures, and Higher-Order Functions
 
 ---
 
