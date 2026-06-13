@@ -181,6 +181,15 @@ Comprehensive guide to functions, closures, and higher-order functions in JavaSc
 - **116_Higher_Order_function.js** - Higher-order functions and function composition
 - **117_Pure_fn.js** - Pure functions and functional programming principles
 
+### Chapter 13: String Methods (`chapter_13_String/`)
+Complete guide to string manipulation, searching, and transformation methods in JavaScript.
+
+- **118_String.js** - String fundamentals and basic properties
+- **119_String_Properties.js** - String properties: length, charAt, charCodeAt
+- **120_Search_Check_str.js** - String search methods: indexOf, includes, startsWith, endsWith
+- **121_SubString.js** - Substring extraction: substring, slice, substr
+- **122_Transform_str.js** - String transformation: toLowerCase, toUpperCase, trim, replace, replaceAll
+
 ## 🎯 Learning Goals
 
 1. ✅ Understand JavaScript fundamentals
@@ -190,7 +199,8 @@ Comprehensive guide to functions, closures, and higher-order functions in JavaSc
 5. ✅ Master control flow (if-else, switch, loops)
 6. ✅ Work with arrays and array methods
 7. ✅ Master functions, closures, and higher-order functions
-8. 📋 Prepare for Playwright automation testing concepts
+8. ✅ Master string methods and manipulation
+9. 📋 Prepare for Playwright automation testing concepts
 
 ## 🚀 Quick Start
 
@@ -267,7 +277,7 @@ This is a personal learning repository. Feel free to fork and customize for your
 
 ## 📅 Last Updated
 
-June 13, 2026 - Added Chapter 12: Functions, Closures, and Higher-Order Functions
+June 14, 2026 - Added Chapter 13: String Methods
 
 ---
 
